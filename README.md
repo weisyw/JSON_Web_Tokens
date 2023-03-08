@@ -1,4 +1,3 @@
-代码地址：[https://gitee.com/weisyw/jwt.git](https://gitee.com/weisyw/jwt.git)
 ## 1、什么是JWT
  JSON Web Token (JWT)是⼀个开放标准(RFC 7519)，它定义了⼀种紧凑的、⾃包含的⽅式，⽤于作为JSON对象在各⽅之间安全地传输信息。该信息可以被验证和信任，因为它是数字签名的。jwt可以使用秘密（使用HMAC算法）或使用RSA或ECDSA的公钥/私钥对进行签名。
 ## 2、JWT能做什么
